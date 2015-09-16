@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 等集眾德三昧經
+#+DATE: 2015-08-30 20:04:36.026859
+#+PROPERTY: JUAN 0
